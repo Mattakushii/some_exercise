@@ -1,0 +1,55 @@
+[
+    {
+      "id": "1",
+      "name": "CIRKA"
+    },
+    {
+      "id": "2",
+      "name": "Code Extractss/Supplements",
+      "subCategories": [
+        {
+          "id": "10",
+          "name": "Sub book"
+        },
+        {
+          "id": "20",
+          "name": "Sub book 3"
+        },
+        {
+          "id": "23",
+          "name": "Sub book 4"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "First Class"
+    },
+    {
+      "id": "4",
+      "name": "Second Class"
+    },
+    {
+      "id": "5",
+      "name": "Third Class",
+      "subCategories": [
+        {
+          "id": "30",
+          "name": "Sub book 6"
+        },
+        {
+          "id": "40",
+          "name": "Sub book 7"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Fourth Class"
+    },
+    {
+      "id": "7",
+      "name": "Fifth Class"
+    }
+  ]
+  
